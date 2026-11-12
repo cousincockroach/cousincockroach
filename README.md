@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨 About Me:
 Hi! With a background in Computer Science and Applied Mathematics, I have a strong foundation in core programming principles and continuous problem-solving. I am passionate about building intuitive, responsive web applications and am currently focused on expanding my full-stack web development capabilities. Whether working on frontend interfaces or backend logic, I enjoy learning new tools and crafting practical software solutions.
 
 

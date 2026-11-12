@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! With a background in Computer Science and Applied Mathematics, I have a strong foundation in core programming principles and continuous problem-solving. I am passionate about building intuitive, responsive web applications and am currently focused on expanding my full-stack web development capabilities. Whether working on frontend interfaces or backend logic, I enjoy learning new tools and crafting practical software solutions.
 
 
@@ -16,6 +16,5 @@ Hi! With a background in Computer Science and Applied Mathematics, I have a stro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=cousincockroach&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

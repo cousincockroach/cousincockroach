@@ -7,6 +7,6 @@ Hi! With a background in Computer Science and Applied Mathematics, I have a stro
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=cousincockroach&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
